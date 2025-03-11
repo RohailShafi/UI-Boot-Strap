@@ -1,0 +1,12 @@
+.square-card {
+        width: 20rem;
+        height: 20rem; /* Make it square */
+        overflow: hidden; /* Ensure content fits */
+    }
+.image-height {
+        height: 200px; /* Adjust image height */
+        object-fit: cover; /* Maintain aspect ratio */
+    }
+.card-body {
+        height: 25%; /* Ensure equal split */
+    }
